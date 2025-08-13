@@ -1,0 +1,13 @@
+Used to converter the hash
+
+https://www.rapidtables.com/convert/number/hex-to-ascii.html
+
+and then decode with
+
+https://gchq.github.io/CyberChef
+
+############
+the flags is
+############
+
+42BCN{b453_64_15_c00l_bu7_h3x_15_c00l3r}
